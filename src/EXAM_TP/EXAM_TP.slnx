@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="BLL/BLL.csproj" Id="7ebc4924-832a-4798-a793-1d5cded8875e" />
   <Project Path="EXAM_TP/EXAM_TP.csproj" />
 </Solution>
