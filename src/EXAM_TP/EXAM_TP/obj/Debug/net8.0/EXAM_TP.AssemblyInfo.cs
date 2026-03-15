@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EXAM_TP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ab187a0583553768c9c4e0688f7cce078a5eb5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ca0912e679c228acdd2c59e3663f873dec9447")]
 [assembly: System.Reflection.AssemblyProductAttribute("EXAM_TP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EXAM_TP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

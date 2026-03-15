@@ -6,5 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+ <ItemGroup>
+    <ProjectReference Include="..\EXAM_TP\EXAM_TP.csproj" />
+  </ItemGroup>	<ItemGroup>
+		<ProjectReference Include="..\EXAM_TP\EXAM_TP.csproj" />
+	BLLVLLbbB
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj" />
+  </ItemGroup>
 
 </Project>
