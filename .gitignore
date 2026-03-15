@@ -1,1 +1,62 @@
-///
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+log.txt
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+packages/
+*.nupkg
+
+# Visual Studio Code
+.vscode/
+
+# Test results
+TestResults/
+
+# Generated files
+Generated/
+*.g.cs
+*.g.i.cs
+
+# Publish output
+publish/
+
+# Coverage
+coverage/
+
+# Backup files
+*.bak
+
+# DotNet tools
+.dotnet/
+
+# Database files
+*.mdf
+*.ldf
+
+# Windows Installer files
+*.msi
+*.msm
+*.msp
